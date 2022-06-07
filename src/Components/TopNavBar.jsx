@@ -1,5 +1,5 @@
 import React from 'react'
-import { Navbar, NavbarBrand, Nav, Collapse, NavItem, NavLink, NavbarToggler } from 'reactstrap';
+import { Navbar, NavbarBrand, Nav, NavItem, NavLink } from 'reactstrap';
 
 function TopNavBar() {
     const routes = [

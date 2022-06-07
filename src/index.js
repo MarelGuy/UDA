@@ -4,7 +4,6 @@ import { Container } from 'reactstrap';
 import { Route, Routes, BrowserRouter as Router, Navigate } from "react-router-dom";
 
 import './style.css'
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 import TopNavBar from './Components/TopNavBar';
 
