@@ -10,6 +10,7 @@ function TopNavBar() {
         { name: "Sistemi e reti", path: "/sistemi-e-reti" },
         { name: "Telecomunicazioni", path: "/telecomunicazioni" },
         { name: "TPSIT", path: "/tpsit" },
+        { name: "Religione", path: "/religione" },
         { name: "Crediti", path: "/crediti" },
     ];
 
